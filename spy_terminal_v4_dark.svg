@@ -43,6 +43,6 @@ text, tspan {white-space: pre;}
 <tspan x="80" y="646" class="cc">- GitHub Stats ------------------------------------------------------------------------------------</tspan>
 <tspan x="80" y="670" class="cc">- </tspan><tspan class="key">Repos</tspan><tspan class="cc">: ............................... </tspan><tspan x="420" y="670" class="value">18 {Contributed: 13} | Stars: 6</tspan>
 <tspan x="80" y="694" class="cc">- </tspan><tspan class="key">Commits</tspan><tspan class="cc">: ............................. </tspan><tspan x="420" y="694" class="value">723 | Followers: 2</tspan>
-<tspan x="80" y="718" class="cc">- </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="cc">: ............. </tspan><tspan x="420" y="718" class="value">417,999</tspan><tspan class="cc"> ( </tspan><tspan class="plus">1,829,231++</tspan><tspan class="cc">, </tspan><tspan class="minus">1,411,232--</tspan><tspan class="cc"> )</tspan>
+<tspan x="80" y="718" class="cc">- </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="cc">: ............. </tspan><tspan x="420" y="718" class="value">1,088,833</tspan><tspan class="cc"> ( </tspan><tspan class="plus">3,531,735++</tspan><tspan class="cc">, </tspan><tspan class="minus">2,442,902--</tspan><tspan class="cc"> )</tspan>
 </text>
 </svg>
