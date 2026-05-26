@@ -13,7 +13,7 @@ const LIGHT_IMAGE = "spy_terminal_v4_light.svg";
 const PROFILE_TOKEN = process.env.PROFILE_GITHUB_TOKEN || "";
 const PUBLIC_TOKEN = PROFILE_TOKEN || process.env.GITHUB_TOKEN || "";
 
-const BIRTH_DATE = new Date(Date.UTC(2006, 11, 21));
+const BIRTH_DATE = new Date(Date.UTC(2006, 12, 21));
 const FALLBACK_STATS = {
   repos: 6,
   contributed: 3,
