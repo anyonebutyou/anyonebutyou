@@ -20,7 +20,7 @@ text, tspan {white-space: pre;}
 <text x="80" y="42" class="card-text">
 <tspan x="80" y="42">spy@github ------------------------------------------------------------------------------------</tspan>
 <tspan x="80" y="72" class="cc">- </tspan><tspan class="key">OS</tspan><tspan class="cc">: .................................. </tspan><tspan x="420" y="72" class="value">Windows 11, Android</tspan>
-<tspan x="80" y="96" class="cc">- </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: .............................. </tspan><tspan x="420" y="96" class="value">19 years, 4 months, 20 days</tspan>
+<tspan x="80" y="96" class="cc">- </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: .............................. </tspan><tspan x="420" y="96" class="value">19 years, 5 months, 5 days</tspan>
 <tspan x="80" y="120" class="cc">- </tspan><tspan class="key">Host</tspan><tspan class="cc">: ................................ </tspan><tspan x="420" y="120" class="value">Sors AI</tspan>
 <tspan x="80" y="144" class="cc">- </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: .............................. </tspan><tspan x="420" y="144" class="value">vibecoder / security automation</tspan>
 <tspan x="80" y="168" class="cc">- </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ................................. </tspan><tspan x="420" y="168" class="value">Codex, Claude, VS Code, Cursor</tspan>
@@ -41,8 +41,8 @@ text, tspan {white-space: pre;}
 <tspan x="80" y="584" class="cc">- </tspan><tspan class="key">GitHub</tspan><tspan class="cc">: .............................. </tspan><tspan x="420" y="584" class="value">delusionofgrandeur</tspan>
 <tspan x="80" y="608" class="cc">- </tspan><tspan class="key">Discord</tspan><tspan class="cc">: ............................. </tspan><tspan x="420" y="608" class="value">sipayisko</tspan>
 <tspan x="80" y="646" class="cc">- GitHub Stats ------------------------------------------------------------------------------------</tspan>
-<tspan x="80" y="670" class="cc">- </tspan><tspan class="key">Repos</tspan><tspan class="cc">: ............................... </tspan><tspan x="420" y="670" class="value">15 {Contributed: 12} | Stars: 6</tspan>
-<tspan x="80" y="694" class="cc">- </tspan><tspan class="key">Commits</tspan><tspan class="cc">: ............................. </tspan><tspan x="420" y="694" class="value">694 | Followers: 2</tspan>
-<tspan x="80" y="718" class="cc">- </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="cc">: ............. </tspan><tspan x="420" y="718" class="value">886,161</tspan><tspan class="cc"> ( </tspan><tspan class="plus">1,531,215++</tspan><tspan class="cc">, </tspan><tspan class="minus">645,054--</tspan><tspan class="cc"> )</tspan>
+<tspan x="80" y="670" class="cc">- </tspan><tspan class="key">Repos</tspan><tspan class="cc">: ............................... </tspan><tspan x="420" y="670" class="value">7 {Contributed: 4} | Stars: 5</tspan>
+<tspan x="80" y="694" class="cc">- </tspan><tspan class="key">Commits</tspan><tspan class="cc">: ............................. </tspan><tspan x="420" y="694" class="value">97 | Followers: 2</tspan>
+<tspan x="80" y="718" class="cc">- </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="cc">: ............. </tspan><tspan x="420" y="718" class="value">433,592</tspan><tspan class="cc"> ( </tspan><tspan class="plus">1,346,938++</tspan><tspan class="cc">, </tspan><tspan class="minus">913,346--</tspan><tspan class="cc"> )</tspan>
 </text>
 </svg>
