@@ -13,7 +13,7 @@ const LIGHT_IMAGE = "spy_terminal_v4_light.svg";
 const PROFILE_TOKEN = process.env.PROFILE_GITHUB_TOKEN || "";
 const PUBLIC_TOKEN = PROFILE_TOKEN || process.env.GITHUB_TOKEN || "";
 
-const BIRTH_DATE = new Date(Date.UTC(2006, 12, 21));
+const BIRTH_DATE = new Date(Date.UTC(2006, 11, 21));
 const FALLBACK_STATS = {
   repos: 6,
   contributed: 3,
@@ -36,6 +36,7 @@ const staticProfile = {
   host: "Sors AI",
   kernel: "AI Engineer / Researcher",
   ide: "Codex, Claude, VS Code, Cursor",
+  programming: "TypeScript, JavaScript, Python, Go, QML",
   frontend: "React Native, Expo, QML, CSS",
   backend: "Node.js, Go, Supabase, PostgreSQL",
   interestSecurity: "Bughunting, large scanners, auth boundaries",
@@ -45,10 +46,10 @@ const staticProfile = {
   discord: "sipayisko",
 };
 
-#const projectCopy = new Map([
-#["RepoSecAudit", "repo security scanner"],
-#["sors-whispercore", "offline Whisper app"],
-#]);
+const projectCopy = new Map([
+  ["RepoSecAudit", "repo security scanner"],
+  ["sors-whispercore", "offline Whisper app"],
+]);
 
 async function githubJson(path, token = PUBLIC_TOKEN) {
   const headers = {
@@ -384,17 +385,15 @@ ${line(230, "Languages.Programming", staticProfile.programming)}
 ${line(254, "Stack.Frontend", staticProfile.frontend)}
 ${line(278, "Stack.Backend", staticProfile.backend)}
 ${section(316, "Projects")}
-${line(340, "coursera-scraper", projectCopy.get("coursera-scraper"))}
-${line(364, "RepoSecAudit", projectCopy.get("RepoSecAudit"))}
-${line(388, "sors-whispercore", projectCopy.get("sors-whispercore"))}
-${section(426, "Interests")}
-${line(450, "Interests.Security", staticProfile.interestSecurity)}
-${line(474, "Interests.AI", staticProfile.interestAi)}
-${line(498, "Now.Building", staticProfile.nowBuilding)}
+${line(340, "RepoSecAudit", projectCopy.get("RepoSecAudit"))}
+${line(364, "sors-whispercore", projectCopy.get("sors-whispercore"))}
+${section(412, "Interests")}
+${line(436, "Interests.Security", staticProfile.interestSecurity)}
+${line(460, "Interests.AI", staticProfile.interestAi)}
+${line(484, "Now.Building", staticProfile.nowBuilding)}
 ${section(536, "Contact")}
-${line(560, "Email", staticProfile.email)}
-${line(584, "GitHub", staticProfile.github)}
-${line(608, "Discord", staticProfile.discord)}
+${line(560, "GitHub", staticProfile.github)}
+${line(584, "Discord", staticProfile.discord)}
 ${section(646, "GitHub Stats")}
 ${line(670, "Repos", repoLine)}
 ${line(694, "Commits", commitLine)}

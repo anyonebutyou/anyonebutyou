@@ -22,33 +22,25 @@ text, tspan {white-space: pre;}
 <tspan x="80" y="72" class="cc">- </tspan><tspan class="key">OS</tspan><tspan class="cc">: .................................. </tspan><tspan x="420" y="72" class="value">Windows 11, Android</tspan>
 <tspan x="80" y="96" class="cc">- </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: .............................. </tspan><tspan x="420" y="96" class="value">19 years, 5 months, 5 days</tspan>
 <tspan x="80" y="120" class="cc">- </tspan><tspan class="key">Host</tspan><tspan class="cc">: ................................ </tspan><tspan x="420" y="120" class="value">Sors AI</tspan>
-<tspan x="80" y="144" class="cc">- </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: .............................. </tspan><tspan x="420" y="144" class="value">vibecoder / security automation</tspan>
+<tspan x="80" y="144" class="cc">- </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: .............................. </tspan><tspan x="420" y="144" class="value">AI Engineer / Researcher</tspan>
 <tspan x="80" y="168" class="cc">- </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ................................. </tspan><tspan x="420" y="168" class="value">Codex, Claude, VS Code, Cursor</tspan>
 <tspan x="80" y="206" class="cc">- Stack ------------------------------------------------------------------------------------</tspan>
-<tspan x="80" y="230" class="cc">- </tspan><tspan class="key">Languages.Programming</tspan><tspan class="cc">: ............... </tspan><tspan x="420" y="230" class="value">TypeScript, JavaScript, Python, QML</tspan>
+<tspan x="80" y="230" class="cc">- </tspan><tspan class="key">Languages.Programming</tspan><tspan class="cc">: ............... </tspan><tspan x="420" y="230" class="value">TypeScript, JavaScript, Python, Go, QML</tspan>
 <tspan x="80" y="254" class="cc">- </tspan><tspan class="key">Stack.Frontend</tspan><tspan class="cc">: ...................... </tspan><tspan x="420" y="254" class="value">React Native, Expo, QML, CSS</tspan>
-<tspan x="80" y="278" class="cc">- </tspan><tspan class="key">Stack.Backend</tspan><tspan class="cc">: ....................... </tspan><tspan x="420" y="278" class="value">Node.js, Supabase, PostgreSQL</tspan>
+<tspan x="80" y="278" class="cc">- </tspan><tspan class="key">Stack.Backend</tspan><tspan class="cc">: ....................... </tspan><tspan x="420" y="278" class="value">Node.js, Go, Supabase, PostgreSQL</tspan>
 <tspan x="80" y="316" class="cc">- Projects ------------------------------------------------------------------------------------</tspan>
-<tspan x="80" y="340" class="cc">- </tspan><tspan class="key">coursera-scraper</tspan><tspan class="cc">: .................... </tspan><tspan x="420" y="340" class="value">course downloader CLI</tspan>
-<tspan x="80" y="364" class="cc">- </tspan><tspan class="key">RepoSecAudit</tspan><tspan class="cc">: ........................ </tspan><tspan x="420" y="364" class="value">repo security scanner</tspan>
-<tspan x="80" y="388" class="cc">- </tspan><tspan class="key">sors-whispercore</tspan><tspan class="cc">: .................... </tspan><tspan x="420" y="388" class="value">offline Whisper app</tspan>
-<tspan x="80" y="426" class="cc">- Interests ------------------------------------------------------------------------------------</tspan>
-<tspan x="80" y="450" class="cc">- </tspan><tspan class="key">Interests.Security</tspan><tspan class="cc">: .................. </tspan><tspan x="420" y="450" class="value">repo scanners, auth boundaries</tspan>
-<tspan x="80" y="474" class="cc">- </tspan><tspan class="key">Interests.AI</tspan><tspan class="cc">: ........................ </tspan><tspan x="420" y="474" class="value">agents, local transcription</tspan>
-<tspan x="80" y="498" class="cc">- </tspan><tspan class="key">Now.Building</tspan><tspan class="cc">: ........................ </tspan><tspan x="420" y="498" class="value">secure CLIs, offline AI apps</tspan>
+<tspan x="80" y="340" class="cc">- </tspan><tspan class="key">RepoSecAudit</tspan><tspan class="cc">: ........................ </tspan><tspan x="420" y="340" class="value">repo security scanner</tspan>
+<tspan x="80" y="364" class="cc">- </tspan><tspan class="key">sors-whispercore</tspan><tspan class="cc">: .................... </tspan><tspan x="420" y="364" class="value">offline Whisper app</tspan>
+<tspan x="80" y="412" class="cc">- Interests ------------------------------------------------------------------------------------</tspan>
+<tspan x="80" y="436" class="cc">- </tspan><tspan class="key">Interests.Security</tspan><tspan class="cc">: .................. </tspan><tspan x="420" y="436" class="value">Bughunting, large scanners, auth boundaries</tspan>
+<tspan x="80" y="460" class="cc">- </tspan><tspan class="key">Interests.AI</tspan><tspan class="cc">: ........................ </tspan><tspan x="420" y="460" class="value">Biologically inspired AI, Self-aware AI, AGI</tspan>
+<tspan x="80" y="484" class="cc">- </tspan><tspan class="key">Now.Building</tspan><tspan class="cc">: ........................ </tspan><tspan x="420" y="484" class="value">Lifestyle OS, Research Engine</tspan>
 <tspan x="80" y="536" class="cc">- Contact ------------------------------------------------------------------------------------</tspan>
-<tspan x="80" y="560" class="cc">- </tspan><tspan class="key">Email</tspan><tspan class="cc">: ............................... </tspan><tspan x="420" y="560" class="value">swedishviking20000@proton.me</tspan>
-<tspan x="80" y="584" class="cc">- </tspan><tspan class="key">GitHub</tspan><tspan class="cc">: .............................. </tspan><tspan x="420" y="584" class="value">delusionofgrandeur</tspan>
-<tspan x="80" y="608" class="cc">- </tspan><tspan class="key">Discord</tspan><tspan class="cc">: ............................. </tspan><tspan x="420" y="608" class="value">sipayisko</tspan>
+<tspan x="80" y="560" class="cc">- </tspan><tspan class="key">GitHub</tspan><tspan class="cc">: .............................. </tspan><tspan x="420" y="560" class="value">delusionofgrandeur</tspan>
+<tspan x="80" y="584" class="cc">- </tspan><tspan class="key">Discord</tspan><tspan class="cc">: ............................. </tspan><tspan x="420" y="584" class="value">sipayisko</tspan>
 <tspan x="80" y="646" class="cc">- GitHub Stats ------------------------------------------------------------------------------------</tspan>
-<<<<<<< HEAD
-<tspan x="80" y="670" class="cc">- </tspan><tspan class="key">Repos</tspan><tspan class="cc">: ............................... </tspan><tspan x="420" y="670" class="value">7 {Contributed: 4} | Stars: 5</tspan>
-<tspan x="80" y="694" class="cc">- </tspan><tspan class="key">Commits</tspan><tspan class="cc">: ............................. </tspan><tspan x="420" y="694" class="value">97 | Followers: 2</tspan>
-<tspan x="80" y="718" class="cc">- </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="cc">: ............. </tspan><tspan x="420" y="718" class="value">433,592</tspan><tspan class="cc"> ( </tspan><tspan class="plus">1,346,938++</tspan><tspan class="cc">, </tspan><tspan class="minus">913,346--</tspan><tspan class="cc"> )</tspan>
-=======
 <tspan x="80" y="670" class="cc">- </tspan><tspan class="key">Repos</tspan><tspan class="cc">: ............................... </tspan><tspan x="420" y="670" class="value">18 {Contributed: 13} | Stars: 6</tspan>
-<tspan x="80" y="694" class="cc">- </tspan><tspan class="key">Commits</tspan><tspan class="cc">: ............................. </tspan><tspan x="420" y="694" class="value">730 | Followers: 2</tspan>
-<tspan x="80" y="718" class="cc">- </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="cc">: ............. </tspan><tspan x="420" y="718" class="value">1,092,321</tspan><tspan class="cc"> ( </tspan><tspan class="plus">3,536,309++</tspan><tspan class="cc">, </tspan><tspan class="minus">2,443,988--</tspan><tspan class="cc"> )</tspan>
->>>>>>> 50955177d1605c3edf7d4ecb5487237f40d122bc
+<tspan x="80" y="694" class="cc">- </tspan><tspan class="key">Commits</tspan><tspan class="cc">: ............................. </tspan><tspan x="420" y="694" class="value">734 | Followers: 2</tspan>
+<tspan x="80" y="718" class="cc">- </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="cc">: ............. </tspan><tspan x="420" y="718" class="value">1,559,229</tspan><tspan class="cc"> ( </tspan><tspan class="plus">3,394,235++</tspan><tspan class="cc">, </tspan><tspan class="minus">1,835,006--</tspan><tspan class="cc"> )</tspan>
 </text>
 </svg>
