@@ -34,24 +34,21 @@ const REPO_SEARCH_ROOTS = (process.env.PROFILE_REPO_SEARCH_ROOTS || join(process
 const staticProfile = {
   os: "Windows 11, Android",
   host: "Sors AI",
-  kernel: "vibecoder / security automation",
+  kernel: "AI Engineer / Researcher",
   ide: "Codex, Claude, VS Code, Cursor",
-  programming: "TypeScript, JavaScript, Python, QML",
   frontend: "React Native, Expo, QML, CSS",
-  backend: "Node.js, Supabase, PostgreSQL",
-  interestSecurity: "repo scanners, auth boundaries",
-  interestAi: "agents, local transcription",
-  nowBuilding: "secure CLIs, offline AI apps",
-  email: "swedishviking20000@proton.me",
+  backend: "Node.js, Go, Supabase, PostgreSQL",
+  interestSecurity: "Bughunting, large scanners, auth boundaries",
+  interestAi: "Biologically inspired AI, Self-aware AI, AGI",
+  nowBuilding: "Lifestyle OS, Research Engine",
   github: USERNAME,
   discord: "sipayisko",
 };
 
-const projectCopy = new Map([
-  ["coursera-scraper", "course downloader CLI"],
-  ["RepoSecAudit", "repo security scanner"],
-  ["sors-whispercore", "offline Whisper app"],
-]);
+#const projectCopy = new Map([
+#["RepoSecAudit", "repo security scanner"],
+#["sors-whispercore", "offline Whisper app"],
+#]);
 
 async function githubJson(path, token = PUBLIC_TOKEN) {
   const headers = {
