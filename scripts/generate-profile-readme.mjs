@@ -10,6 +10,7 @@ const DISPLAY_NAME = "spy";
 const PROFILE_REPO = "delusionofgrandeur/delusionofgrandeur";
 const DARK_IMAGE = "spy_terminal_v4_dark.svg";
 const LIGHT_IMAGE = "spy_terminal_v4_light.svg";
+const ASSET_VERSION = "2026-05-26-1";
 const PROFILE_TOKEN = process.env.PROFILE_GITHUB_TOKEN || "";
 const PUBLIC_TOKEN = PROFILE_TOKEN || process.env.GITHUB_TOKEN || "";
 
@@ -427,8 +428,8 @@ async function build() {
 
   const readme = `<a href="https://github.com/${USERNAME}">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/${PROFILE_REPO}/main/${DARK_IMAGE}">
-    <img alt="${DISPLAY_NAME} GitHub profile README" src="https://raw.githubusercontent.com/${PROFILE_REPO}/main/${LIGHT_IMAGE}">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/${PROFILE_REPO}/main/${DARK_IMAGE}?v=${ASSET_VERSION}">
+    <img alt="${DISPLAY_NAME} GitHub profile README" src="https://raw.githubusercontent.com/${PROFILE_REPO}/main/${LIGHT_IMAGE}?v=${ASSET_VERSION}">
   </picture>
 </a>
 
