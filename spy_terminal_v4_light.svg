@@ -41,8 +41,14 @@ text, tspan {white-space: pre;}
 <tspan x="80" y="584" class="cc">- </tspan><tspan class="key">GitHub</tspan><tspan class="cc">: .............................. </tspan><tspan x="420" y="584" class="value">delusionofgrandeur</tspan>
 <tspan x="80" y="608" class="cc">- </tspan><tspan class="key">Discord</tspan><tspan class="cc">: ............................. </tspan><tspan x="420" y="608" class="value">sipayisko</tspan>
 <tspan x="80" y="646" class="cc">- GitHub Stats ------------------------------------------------------------------------------------</tspan>
+<<<<<<< HEAD
 <tspan x="80" y="670" class="cc">- </tspan><tspan class="key">Repos</tspan><tspan class="cc">: ............................... </tspan><tspan x="420" y="670" class="value">7 {Contributed: 4} | Stars: 5</tspan>
 <tspan x="80" y="694" class="cc">- </tspan><tspan class="key">Commits</tspan><tspan class="cc">: ............................. </tspan><tspan x="420" y="694" class="value">97 | Followers: 2</tspan>
 <tspan x="80" y="718" class="cc">- </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="cc">: ............. </tspan><tspan x="420" y="718" class="value">433,592</tspan><tspan class="cc"> ( </tspan><tspan class="plus">1,346,938++</tspan><tspan class="cc">, </tspan><tspan class="minus">913,346--</tspan><tspan class="cc"> )</tspan>
+=======
+<tspan x="80" y="670" class="cc">- </tspan><tspan class="key">Repos</tspan><tspan class="cc">: ............................... </tspan><tspan x="420" y="670" class="value">18 {Contributed: 13} | Stars: 6</tspan>
+<tspan x="80" y="694" class="cc">- </tspan><tspan class="key">Commits</tspan><tspan class="cc">: ............................. </tspan><tspan x="420" y="694" class="value">730 | Followers: 2</tspan>
+<tspan x="80" y="718" class="cc">- </tspan><tspan class="key">Lines of Code on GitHub</tspan><tspan class="cc">: ............. </tspan><tspan x="420" y="718" class="value">1,092,321</tspan><tspan class="cc"> ( </tspan><tspan class="plus">3,536,309++</tspan><tspan class="cc">, </tspan><tspan class="minus">2,443,988--</tspan><tspan class="cc"> )</tspan>
+>>>>>>> 50955177d1605c3edf7d4ecb5487237f40d122bc
 </text>
 </svg>
